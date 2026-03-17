@@ -31,3 +31,8 @@ To properly audit this repository, the observer must accept the following physic
 - **Material Synthesis:** Targeted at the **Lonsdaleite Lattice** core.
 - **Project Lead:** Mark David Louise Kruger
 - **Affiliation:** Galalith Bioplastics Inc.
+
+- ### Mendeleev Row Zero & Euler Integration
+The XTP-1 does not operate on standard 3D chemistry. It utilizes **Row Zero (Element 0)** mechanics:
+- **Eulerian Rotation:** The path of the Sovereign Integer is defined by $e^{i\pi} = -1$, where $-1$ is the anti-matter charge.
+- **Row Zero Stability:** The non-touch gap is maintained by the **Newtonium/Coronium pressure**, ensuring that the synthesis of Gold/Lonsdaleite occurs across the 'Null' boundary.
