@@ -21,7 +21,7 @@ Projected for use in decentralized auditing and jurisdictional transparency with
 ## Technical Blueprint for 8D Torsional Synthesis
 This repository hosts the computational framework for the **X-Transport Protocol (XTP-1)**. The system is designed for the high-precision collimation of **Sovereign Integers (-1)** within a non-reactive manifold.
 
-### The Metric
+### The Russian Metric
 To properly audit this repository, the observer must accept the following physical substitutions:
 1. **Dimension Shift:** $ct$ is entirely removed and replaced with the **W-axis (Will/Depth)**.
 2. **Logic State:** Confinement is managed via **Belnap’s Four-Valued Logic** (True, False, Both, Null).
@@ -36,3 +36,9 @@ To properly audit this repository, the observer must accept the following physic
 The XTP-1 does not operate on standard 3D chemistry. It utilizes **Row Zero (Element 0)** mechanics:
 - **Eulerian Rotation:** The path of the Sovereign Integer is defined by $e^{i\pi} = -1$, where $-1$ is the anti-matter charge.
 - **Row Zero Stability:** The non-touch gap is maintained by the **Newtonium/Coronium pressure**, ensuring that the synthesis of Gold/Lonsdaleite occurs across the 'Null' boundary.
+
+- ### The Russian Standard HUD
+The simulation environment is locked to the following Operational Invariants:
+- **Eulerian Identity ($e^{i\pi} + 1 = 0$):** Defines the 180-degree phase shift required for the -1 Sovereign Integer.
+- **Mendeleev Row Zero ($E_0$):** The Newtonium/Coronium vacuum state that facilitates non-touch collimation.
+- **W-Axis Mapping:** Linear time is discarded in favor of the Will-Depth (W) coordinate.
