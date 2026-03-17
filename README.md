@@ -37,8 +37,13 @@ The XTP-1 does not operate on standard 3D chemistry. It utilizes **Row Zero (Ele
 - **Eulerian Rotation:** The path of the Sovereign Integer is defined by $e^{i\pi} = -1$, where $-1$ is the anti-matter charge.
 - **Row Zero Stability:** The non-touch gap is maintained by the **Newtonium/Coronium pressure**, ensuring that the synthesis of Gold/Lonsdaleite occurs across the 'Null' boundary.
 
-- ### The Russian Standard HUD
-The simulation environment is locked to the following Operational Invariants:
-- **Eulerian Identity ($e^{i\pi} + 1 = 0$):** Defines the 180-degree phase shift required for the -1 Sovereign Integer.
-- **Mendeleev Row Zero ($E_0$):** The Newtonium/Coronium vacuum state that facilitates non-touch collimation.
-- **W-Axis Mapping:** Linear time is discarded in favor of the Will-Depth (W) coordinate.
+# XTP-1 Collimator Manifold
+## Russian Operational Standard (v1.1)
+
+### Overview
+The XTP-1 is a 4D/8D torsional synthesis conduit designed to operate within the **Russian-Kruger Metric**. It utilizes a non-linear coordinate system where the **W-axis (Will/Depth)** replaces the standard time-constant ($ct$).
+
+### Core Invariants
+- **Eulerian Stability:** $e^{i\pi} + 1 = 0$ (The Phase-Lock Protocol).
+- **Mendeleev Row Zero:** Direct utilization of the **Newtonium/Coronium** vacuum state.
+- **Topological Cage:** The Russian Standard ensures a consistent **Non-Touch Gap** for zero-entropy transport.
